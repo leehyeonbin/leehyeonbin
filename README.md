@@ -1,9 +1,8 @@
-### Hi there 👋
+# Welcome my space. 
+Hello!! I'm an Android engineer. 
 
-<!--
-**leehyeonbin/leehyeonbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehyeonbin&langs_count=10&layout=compact&theme=dark)](https://github.com/leehyeonbin/leehyeonbin)﻿
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
