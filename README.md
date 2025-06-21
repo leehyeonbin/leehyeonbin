@@ -1,4 +1,3 @@
 ## Hi there 👋
 
-<img width="546" alt="스크린샷 2025-06-21 오후 4 42 34" src="https://github.com/user-attachments/assets/958b5fea-be1b-4ab0-9f4c-ebdd407815b4" />
-
+![a1d8dd43a01ab5d3142499a8a380bb55994bcc6b6c67d640dbd333e0d0dec07e](https://github.com/user-attachments/assets/b925eecc-1577-4004-8479-09bd0905d984)
